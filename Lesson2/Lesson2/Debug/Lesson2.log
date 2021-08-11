@@ -1,0 +1,5 @@
+﻿  factorial.cpp
+C:\Users\Admin\source\repos\Lesson2\Lesson2\factorial.cpp(6,1): error C2062: type '__int64' unexpected
+C:\Users\Admin\source\repos\Lesson2\Lesson2\factorial.cpp(12,4): error C2065: 'y': undeclared identifier
+C:\Users\Admin\source\repos\Lesson2\Lesson2\factorial.cpp(12,8): error C2065: 'y': undeclared identifier
+C:\Users\Admin\source\repos\Lesson2\Lesson2\factorial.cpp(13,11): error C2065: 'y': undeclared identifier
