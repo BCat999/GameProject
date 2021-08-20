@@ -1,4 +1,5 @@
 #include "CloseState.h"
+#include "LockState.h"
 
 void CloseState::unlock() {
     std::cout << "Unlock the Door, but it's not locked\n";
@@ -13,4 +14,5 @@ void CloseState::open() {
 }
 void CloseState::lock() {
     std::cout << "Lock the Door, it's lock now\n";
+    this->mContext->TransitionTo(new LockState);
 }
