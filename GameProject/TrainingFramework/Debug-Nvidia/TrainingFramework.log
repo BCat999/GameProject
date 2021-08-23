@@ -1,0 +1,4 @@
+﻿  GSIntro.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSIntro.cpp(20,86): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSIntro.cpp(20,52): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  TrainingFramework.vcxproj -> C:\Users\nguye\Source\Repos\GameProject\GameProject\BIN-Nvidia\TrainingFramework.exe
