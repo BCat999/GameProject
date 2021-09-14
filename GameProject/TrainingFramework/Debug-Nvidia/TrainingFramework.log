@@ -2,4 +2,6 @@
 C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
 C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
 C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMenu.cpp(61,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  LINK : C:\Users\nguye\source\repos\GameProject\GameProject\\BIN-Nvidia\TrainingFramework.exe not found or not built by the last incremental link; performing full link
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
   TrainingFramework.vcxproj -> C:\Users\nguye\source\repos\GameProject\GameProject\BIN-Nvidia\TrainingFramework.exe

@@ -1,0 +1,7 @@
+﻿  esShader.cpp
+  esUtil.cpp
+  esUtil_win.cpp
+  CMath.cpp
+  TGA.cpp
+  Generating Code...
+  Utilities.vcxproj -> C:\Users\nguye\source\repos\GameProject\GameProject\Lib\Angle\UtilitiesD.lib
