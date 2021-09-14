@@ -15,8 +15,8 @@
   ftpatent.c
   bdf.c
   cff.c
-  ftcache.c
   ftbase.c
+  ftcache.c
   ftglyph.c
   ftgzip.c
   ftinit.c
@@ -37,4 +37,4 @@
   type42.c
   winfnt.c
   ftdebug.c
-  freetype.vcxproj -> C:\Users\Admin\Desktop\1 month intern\TrainingFramework\freetype\objs\vc2019\Win32\freetype.lib
+  freetype.vcxproj -> C:\Users\nguye\source\repos\GameProject\GameProject\freetype\objs\vc2019\Win32\freetype.lib

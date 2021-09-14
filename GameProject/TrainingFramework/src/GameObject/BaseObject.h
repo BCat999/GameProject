@@ -44,7 +44,8 @@ public:
 
 	void SetPosition(Vector3 position) { m_position = position; }
 	Vector3 GetPosition() { return m_position; }
-
+	GLint GetPositionX() { return m_position.x; }
+	GLint GetPositionY() { return m_position.y; }
 	void SetRotation(Vector3 rotation) { m_rotation = rotation; }
 	Vector3 GetRotation() { return m_rotation; }
 

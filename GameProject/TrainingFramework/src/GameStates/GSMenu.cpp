@@ -57,8 +57,8 @@ void GSMenu::Init()
 	// game title
 	shader = ResourceManagers::GetInstance()->GetShader("TextShader");
 	std::shared_ptr<Font> font = ResourceManagers::GetInstance()->GetFont("Brightly Crush Shine.otf");
-	m_textGameName = std::make_shared< Text>(shader, font, "Nine taled", Vector4(1.0f, 0.5f, 0.0f, 1.0f), 3.0f);
-	m_textGameName->Set2DPosition(Vector2(60, 200));
+	m_textGameName = std::make_shared< Text>(shader, font, "Nine tail", Vector4(1.0f, 0.5f, 0.0f, 1.0f), 3.0f);
+	m_textGameName->Set2DPosition(Vector2(Globals::screenWidth / 2-50, 200));
 }
 
 void GSMenu::Exit()

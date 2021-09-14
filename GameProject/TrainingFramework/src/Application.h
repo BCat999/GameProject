@@ -3,7 +3,6 @@
 #include "GameConfig.h"
 #include "Camera.h"
 
-
 class Application : public CSingleton<Application>
 {
 public:

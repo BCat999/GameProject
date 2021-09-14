@@ -72,6 +72,36 @@
     <ClCompile Include="src\GameStates\GSCredit.cpp">
       <Filter>TrainingFramework\src\GameStates</Filter>
     </ClCompile>
+    <ClCompile Include="src\GameObject\AnimationSprite.cpp">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameObject\Fox.cpp">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameObject\Enemy.cpp">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameObject\Fire.cpp">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameObject\Scratch.cpp">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameStates\GSGameOver.cpp">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameStates\GSWin.cpp">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameStates\GSMap1.cpp">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameObject\Spirit.cpp">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GameStates\GSFinal.cpp">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Application.h">
@@ -132,6 +162,36 @@
       <Filter>TrainingFramework\src\GameObject</Filter>
     </ClInclude>
     <ClInclude Include="src\GameStates\GSCredit.h">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject\AnimationSprite.h">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject\Enemy.h">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject\Fox.h">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject\Fire.h">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject\Scratch.h">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameStates\GSGameOver.h">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameStates\GSWin.h">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameStates\GSMap1.h">
+      <Filter>TrainingFramework\src\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameObject\Spirit.h">
+      <Filter>TrainingFramework\src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GameStates\GSFinal.h">
       <Filter>TrainingFramework\src\GameStates</Filter>
     </ClInclude>
   </ItemGroup>
