@@ -1,0 +1,279 @@
+﻿  Application.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,int,int,int&,int,int&,float,float,float>(_Ty &,int &&,int &&,int &,int &&,int &,float &&,float &&,float &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Camera
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int,int&,int,int&,float,float,float>(int &&,int &&,int &,int &&,int &,float &&,float &&,float &&)' being compiled
+          with
+          [
+              _Ty=Camera
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<int,int,int&,int,int&,float,float,float>(int &&,int &&,int &,int &&,int &,float &&,float &&,float &&)' being compiled
+          with
+          [
+              _Ty=Camera
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\Application.cpp(20): message : see reference to function template instantiation 'std::shared_ptr<Camera> std::make_shared<Camera,int,int,int&,int,int&,float,float,float>(int &&,int &&,int &,int &&,int &,float &&,float &&,float &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'GLfloat', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  ResourceManagers.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  AnimationSprite.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\AnimationSprite.cpp(71,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\AnimationSprite.cpp(76,39): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Enemy.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Enemy.cpp(45,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Enemy.cpp(66,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Enemy.cpp(66,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Enemy.cpp(78,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Enemy.cpp(78,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Fire.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fire.cpp(48,73): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fire.cpp(48,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Font.cpp
+  Fox.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(31,53): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(31,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(36,53): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(36,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(58,50): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(58,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(67,50): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(67,36): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(70,71): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(70,55): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(74,71): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Fox.cpp(74,55): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  GameButton.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Scratch.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Scratch.cpp(37,40): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Scratch.cpp(37,26): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Spirit.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Spirit.cpp(31,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Spirit.cpp(60,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Spirit.cpp(60,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Spirit.cpp(73,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Spirit.cpp(73,27): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Sprite2D.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Camera.cpp
+  Sprite3D.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Model.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\Model.cpp(25,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  Shader.cpp
+  Text.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Texture.cpp
+  GSFinal.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSFinal.cpp(59,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSFinal.cpp(205,27): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSFinal.cpp(219,49): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSFinal.cpp(219,34): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSFinal.cpp(55): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+  GSGameOver.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSGameOver.cpp(22,85): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSGameOver.cpp(22,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[10],TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[10],TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[10],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[10],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[10],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[10],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSGameOver.cpp(21): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[10],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[10],TextColor &&,double &&)' being compiled
+  GameStateBase.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Compiling...
+  GameStateMachine.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+  GSCredit.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSCredit.cpp(31,92): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSCredit.cpp(31,58): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[25],TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[25],TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[25],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[25],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[25],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[25],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSCredit.cpp(47): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[25],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[25],TextColor &&,double &&)' being compiled
+  GSIntro.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSIntro.cpp(20,86): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSIntro.cpp(20,52): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  GSMap1.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(63,55): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(185,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(219,31): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(262,27): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(276,49): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(276,34): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMap1.cpp(59): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+  GSMenu.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSMenu.cpp(61,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GSPlay.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSPlay.cpp(170,27): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSPlay.cpp(184,49): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSPlay.cpp(184,34): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSPlay.cpp(55): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&,TextColor &&,double &&)' being compiled
+  GSWin.cpp
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(47,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameObject\BaseObject.h(48,42): warning C4244: 'return': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSWin.cpp(31,92): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSWin.cpp(31,58): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSWin.cpp(47,85): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSWin.cpp(47,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2029): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[8],TextColor,double>(_Ty &,std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[8],TextColor &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[8],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[8],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[8],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[8],TextColor &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\nguye\source\repos\GameProject\GameProject\TrainingFramework\src\GameStates\GSWin.cpp(46): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shader>&,std::shared_ptr<Font>&,const char(&)[8],TextColor,double>(std::shared_ptr<Shader> &,std::shared_ptr<Font> &,const char (&)[8],TextColor &&,double &&)' being compiled
+  TrainingFramework.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1860 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TrainingFramework.vcxproj -> C:\Users\nguye\source\repos\GameProject\GameProject\BIN-ATI\TrainingFramework.exe

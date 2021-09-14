@@ -30,8 +30,8 @@ Global
 		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Debug-Nvidia|Win32.Build.0 = Debug-Nvidia|Win32
 		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-Angle|Win32.ActiveCfg = Release-Angle|Win32
 		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-Angle|Win32.Build.0 = Release-Angle|Win32
-		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-ATI|Win32.ActiveCfg = Release-ATI|Win32
-		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-ATI|Win32.Build.0 = Release-ATI|Win32
+		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-ATI|Win32.ActiveCfg = Release-Nvidia|Win32
+		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-ATI|Win32.Build.0 = Release-Nvidia|Win32
 		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-Nvidia|Win32.ActiveCfg = Release-Nvidia|Win32
 		{FC024EC8-32F4-4657-A2CB-14D2B3A931F8}.Release-Nvidia|Win32.Build.0 = Release-Nvidia|Win32
 		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Debug-AMD|Win32.ActiveCfg = Debug-AMD|Win32
@@ -44,8 +44,8 @@ Global
 		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Debug-Nvidia|Win32.Build.0 = Debug-Nvidia|Win32
 		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-Angle|Win32.ActiveCfg = Release-Angle|Win32
 		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-Angle|Win32.Build.0 = Release-Angle|Win32
-		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-ATI|Win32.ActiveCfg = Release-ATI|Win32
-		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-ATI|Win32.Build.0 = Release-ATI|Win32
+		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-ATI|Win32.ActiveCfg = Release-Nvidia|Win32
+		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-ATI|Win32.Build.0 = Release-Nvidia|Win32
 		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-Nvidia|Win32.ActiveCfg = Release-Nvidia|Win32
 		{0D44529E-F7DD-4454-8EAD-9AFD857F53B4}.Release-Nvidia|Win32.Build.0 = Release-Nvidia|Win32
 		{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}.Debug-AMD|Win32.ActiveCfg = Debug|Win32
